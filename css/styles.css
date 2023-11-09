@@ -13,8 +13,8 @@ body {
   font-size: var(--bs-body-font-size, 1rem);
   font-weight: var(--bs-body-font-weight, 400);
   line-height: var(--bs-body-line-height, 1.5);
-  color: var(--bs-body-color, #fff);
-  background-color: var(--bs-body-bg, #fff);
+  color: var(--bs-body-color, #ffffff);
+  background-color: var(--bs-body-bg, #fffffe);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: #000;
 }
@@ -101,7 +101,7 @@ video.bg-video {
 
 
 .whitetext {
-  color: rgba(var(--bs-white-rgb, #fff), var(--bs-text-opacity, 1));
+  color: var(--bs-white-rgb, #ffffff);
 }
 
 
