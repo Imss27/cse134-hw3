@@ -108,11 +108,11 @@ video.bg-video {
 @media (max-width: 768px) {
   .maincontent {
     flex-direction: column; 
-    height: 80%;
-    width: 80%;
+    height: 100%;
+    width: 100%;
   }
   .maincontent .maincontent-inner p {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
   }
   #experience {
     width: 100%;
