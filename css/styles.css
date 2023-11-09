@@ -117,6 +117,10 @@ video.bg-video {
   #experience {
     width: 100%;
   }
+  #contentpicture {
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
