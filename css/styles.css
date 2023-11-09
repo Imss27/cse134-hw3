@@ -93,7 +93,7 @@ video.bg-video {
 .maincontent {
   .maincontent-inner {
     position: relative;
-    max-width: 40rem;
+    max-width: 35rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
@@ -112,7 +112,7 @@ video.bg-video {
     width: 100%;
   }
   .maincontent .maincontent-inner p {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
   #experience {
     width: 100%;
@@ -171,7 +171,7 @@ pre {
   font-family: var(--bs-body-font-family);
 }
 
-form {
+.forgrid {
   display: grid;
-  grid-gap: 2px;
+  grid-gap: 1px;
 }
